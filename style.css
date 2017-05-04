@@ -1,0 +1,25 @@
+body {
+    font-family: "Arial"
+}
+
+.blocks {
+    background-color: green;
+    width : 15em;
+    margin : auto;
+    padding : 1em;
+}
+
+.block {
+    background-color: lightblue;
+    width: 10em;
+    padding : 1em;
+    margin : 0.5em;
+}
+
+.hidden{
+    display : none;
+}
+
+.show{
+    display: block;
+}
